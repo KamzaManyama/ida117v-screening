@@ -1,0 +1,1558 @@
+{
+ "city": {
+  "households": 8252,
+  "rate": 0.132,
+  "flagged": 0.337
+ },
+ "suburbs": [
+  {
+   "name": "Freedom Park Airport",
+   "households": 34,
+   "rate": 0.588,
+   "flagged": 1.0,
+   "formal": 0.0,
+   "adi": 0.0,
+   "informal": 1.0
+  },
+  {
+   "name": "Browns Farms/Samora Machel",
+   "households": 52,
+   "rate": 0.519,
+   "flagged": 0.885,
+   "formal": 0.46,
+   "adi": 0.27,
+   "informal": 0.27
+  },
+  {
+   "name": "Mfuleni",
+   "households": 65,
+   "rate": 0.492,
+   "flagged": 0.846,
+   "formal": 0.42,
+   "adi": 0.2,
+   "informal": 0.38
+  },
+  {
+   "name": "Ndabeni Communal Trust",
+   "households": 23,
+   "rate": 0.478,
+   "flagged": 1.0,
+   "formal": 0.0,
+   "adi": 0.0,
+   "informal": 1.0
+  },
+  {
+   "name": "Ilitha Park",
+   "households": 42,
+   "rate": 0.476,
+   "flagged": 0.738,
+   "formal": 0.62,
+   "adi": 0.38,
+   "informal": 0.0
+  },
+  {
+   "name": "Delft South",
+   "households": 45,
+   "rate": 0.444,
+   "flagged": 0.756,
+   "formal": 0.4,
+   "adi": 0.36,
+   "informal": 0.24
+  },
+  {
+   "name": "Lwandle",
+   "households": 43,
+   "rate": 0.442,
+   "flagged": 0.953,
+   "formal": 0.42,
+   "adi": 0.23,
+   "informal": 0.35
+  },
+  {
+   "name": "Red Hill",
+   "households": 40,
+   "rate": 0.425,
+   "flagged": 0.775,
+   "formal": 0.0,
+   "adi": 0.0,
+   "informal": 1.0
+  },
+  {
+   "name": "Eyethu/Khaya",
+   "households": 84,
+   "rate": 0.405,
+   "flagged": 0.75,
+   "formal": 0.49,
+   "adi": 0.38,
+   "informal": 0.13
+  },
+  {
+   "name": "Tafelsig",
+   "households": 48,
+   "rate": 0.396,
+   "flagged": 0.792,
+   "formal": 0.62,
+   "adi": 0.38,
+   "informal": 0.0
+  },
+  {
+   "name": "Doornbach",
+   "households": 42,
+   "rate": 0.381,
+   "flagged": 0.881,
+   "formal": 0.0,
+   "adi": 0.0,
+   "informal": 1.0
+  },
+  {
+   "name": "Endlovini/Enkanini",
+   "households": 69,
+   "rate": 0.362,
+   "flagged": 0.826,
+   "formal": 0.17,
+   "adi": 0.0,
+   "informal": 0.83
+  },
+  {
+   "name": "Harare",
+   "households": 43,
+   "rate": 0.349,
+   "flagged": 0.698,
+   "formal": 0.42,
+   "adi": 0.33,
+   "informal": 0.26
+  },
+  {
+   "name": "Delft Northeast",
+   "households": 49,
+   "rate": 0.327,
+   "flagged": 0.714,
+   "formal": 0.63,
+   "adi": 0.35,
+   "informal": 0.02
+  },
+  {
+   "name": "Makhaza",
+   "households": 52,
+   "rate": 0.327,
+   "flagged": 0.712,
+   "formal": 0.52,
+   "adi": 0.29,
+   "informal": 0.19
+  },
+  {
+   "name": "Crossroads/New Crossroads/Nyanga",
+   "households": 120,
+   "rate": 0.325,
+   "flagged": 0.817,
+   "formal": 0.48,
+   "adi": 0.28,
+   "informal": 0.24
+  },
+  {
+   "name": "Gugulethu",
+   "households": 120,
+   "rate": 0.325,
+   "flagged": 0.775,
+   "formal": 0.39,
+   "adi": 0.13,
+   "informal": 0.47
+  },
+  {
+   "name": "Winnie Madikizela - Delft",
+   "households": 40,
+   "rate": 0.325,
+   "flagged": 0.975,
+   "formal": 0.0,
+   "adi": 0.0,
+   "informal": 1.0
+  },
+  {
+   "name": "Mamre",
+   "households": 44,
+   "rate": 0.318,
+   "flagged": 0.705,
+   "formal": 0.61,
+   "adi": 0.39,
+   "informal": 0.0
+  },
+  {
+   "name": "Macassar",
+   "households": 49,
+   "rate": 0.306,
+   "flagged": 0.612,
+   "formal": 0.61,
+   "adi": 0.35,
+   "informal": 0.04
+  },
+  {
+   "name": "Pelikan Park",
+   "households": 46,
+   "rate": 0.304,
+   "flagged": 0.63,
+   "formal": 0.54,
+   "adi": 0.24,
+   "informal": 0.22
+  },
+  {
+   "name": "Kraaifontein East",
+   "households": 47,
+   "rate": 0.298,
+   "flagged": 0.894,
+   "formal": 0.04,
+   "adi": 0.09,
+   "informal": 0.87
+  },
+  {
+   "name": "Kosovo",
+   "households": 44,
+   "rate": 0.295,
+   "flagged": 0.773,
+   "formal": 0.0,
+   "adi": 0.0,
+   "informal": 1.0
+  },
+  {
+   "name": "Philippi East",
+   "households": 76,
+   "rate": 0.289,
+   "flagged": 0.658,
+   "formal": 0.33,
+   "adi": 0.25,
+   "informal": 0.42
+  },
+  {
+   "name": "Wallacedene",
+   "households": 46,
+   "rate": 0.283,
+   "flagged": 0.717,
+   "formal": 0.57,
+   "adi": 0.33,
+   "informal": 0.11
+  },
+  {
+   "name": "Joe Slovo Park",
+   "households": 39,
+   "rate": 0.282,
+   "flagged": 0.744,
+   "formal": 0.44,
+   "adi": 0.36,
+   "informal": 0.21
+  },
+  {
+   "name": "Ocean View",
+   "households": 39,
+   "rate": 0.282,
+   "flagged": 0.564,
+   "formal": 0.67,
+   "adi": 0.28,
+   "informal": 0.05
+  },
+  {
+   "name": "Delft",
+   "households": 50,
+   "rate": 0.28,
+   "flagged": 0.76,
+   "formal": 0.5,
+   "adi": 0.32,
+   "informal": 0.18
+  },
+  {
+   "name": "Langa",
+   "households": 55,
+   "rate": 0.273,
+   "flagged": 0.709,
+   "formal": 0.45,
+   "adi": 0.07,
+   "informal": 0.47
+  },
+  {
+   "name": "Pella",
+   "households": 37,
+   "rate": 0.27,
+   "flagged": 0.757,
+   "formal": 0.81,
+   "adi": 0.14,
+   "informal": 0.05
+  },
+  {
+   "name": "Portland/Rocklands/Westridge",
+   "households": 118,
+   "rate": 0.263,
+   "flagged": 0.407,
+   "formal": 0.75,
+   "adi": 0.25,
+   "informal": 0.0
+  },
+  {
+   "name": "Kuyasa",
+   "households": 42,
+   "rate": 0.262,
+   "flagged": 0.786,
+   "formal": 0.55,
+   "adi": 0.24,
+   "informal": 0.21
+  },
+  {
+   "name": "Vrygrond",
+   "households": 46,
+   "rate": 0.261,
+   "flagged": 0.652,
+   "formal": 0.35,
+   "adi": 0.33,
+   "informal": 0.33
+  },
+  {
+   "name": "Valhalla Park",
+   "households": 27,
+   "rate": 0.259,
+   "flagged": 0.704,
+   "formal": 0.63,
+   "adi": 0.37,
+   "informal": 0.0
+  },
+  {
+   "name": "Dunoon",
+   "households": 51,
+   "rate": 0.255,
+   "flagged": 0.529,
+   "formal": 0.31,
+   "adi": 0.25,
+   "informal": 0.43
+  },
+  {
+   "name": "Bloekombos",
+   "households": 40,
+   "rate": 0.25,
+   "flagged": 0.85,
+   "formal": 0.47,
+   "adi": 0.5,
+   "informal": 0.03
+  },
+  {
+   "name": "Hanover Park",
+   "households": 44,
+   "rate": 0.25,
+   "flagged": 0.75,
+   "formal": 0.68,
+   "adi": 0.32,
+   "informal": 0.0
+  },
+  {
+   "name": "Witsand",
+   "households": 48,
+   "rate": 0.25,
+   "flagged": 0.562,
+   "formal": 0.33,
+   "adi": 0.23,
+   "informal": 0.44
+  },
+  {
+   "name": "Site B: Victoria Mxenge",
+   "households": 41,
+   "rate": 0.244,
+   "flagged": 0.732,
+   "formal": 0.41,
+   "adi": 0.2,
+   "informal": 0.39
+  },
+  {
+   "name": "Lentegeur",
+   "households": 46,
+   "rate": 0.239,
+   "flagged": 0.522,
+   "formal": 0.72,
+   "adi": 0.28,
+   "informal": 0.0
+  },
+  {
+   "name": "Masiphumelele",
+   "households": 34,
+   "rate": 0.235,
+   "flagged": 0.588,
+   "formal": 0.44,
+   "adi": 0.26,
+   "informal": 0.29
+  },
+  {
+   "name": "Klipheuwel",
+   "households": 43,
+   "rate": 0.233,
+   "flagged": 0.581,
+   "formal": 0.35,
+   "adi": 0.07,
+   "informal": 0.58
+  },
+  {
+   "name": "Site C",
+   "households": 49,
+   "rate": 0.224,
+   "flagged": 0.592,
+   "formal": 0.57,
+   "adi": 0.2,
+   "informal": 0.22
+  },
+  {
+   "name": "Kuils River SH",
+   "households": 23,
+   "rate": 0.217,
+   "flagged": 0.348,
+   "formal": 0.52,
+   "adi": 0.0,
+   "informal": 0.48
+  },
+  {
+   "name": "Site B: Nonqubela",
+   "households": 52,
+   "rate": 0.212,
+   "flagged": 0.846,
+   "formal": 0.4,
+   "adi": 0.17,
+   "informal": 0.42
+  },
+  {
+   "name": "Eersterivier",
+   "households": 44,
+   "rate": 0.205,
+   "flagged": 0.523,
+   "formal": 0.64,
+   "adi": 0.32,
+   "informal": 0.05
+  },
+  {
+   "name": "Lavender Hill",
+   "households": 44,
+   "rate": 0.205,
+   "flagged": 0.614,
+   "formal": 0.55,
+   "adi": 0.32,
+   "informal": 0.14
+  },
+  {
+   "name": "Makaya/Town 2",
+   "households": 73,
+   "rate": 0.205,
+   "flagged": 0.534,
+   "formal": 0.52,
+   "adi": 0.25,
+   "informal": 0.23
+  },
+  {
+   "name": "Knole Park",
+   "households": 35,
+   "rate": 0.2,
+   "flagged": 0.457,
+   "formal": 0.54,
+   "adi": 0.06,
+   "informal": 0.4
+  },
+  {
+   "name": "Beacon Valley",
+   "households": 46,
+   "rate": 0.196,
+   "flagged": 0.478,
+   "formal": 0.91,
+   "adi": 0.09,
+   "informal": 0.0
+  },
+  {
+   "name": "Summer Greens",
+   "households": 41,
+   "rate": 0.195,
+   "flagged": 0.293,
+   "formal": 0.8,
+   "adi": 0.2,
+   "informal": 0.0
+  },
+  {
+   "name": "Hazendal/Silvertown",
+   "households": 75,
+   "rate": 0.187,
+   "flagged": 0.56,
+   "formal": 0.72,
+   "adi": 0.28,
+   "informal": 0.0
+  },
+  {
+   "name": "Bishop Lavis",
+   "households": 43,
+   "rate": 0.186,
+   "flagged": 0.605,
+   "formal": 0.6,
+   "adi": 0.4,
+   "informal": 0.0
+  },
+  {
+   "name": "Heideveld",
+   "households": 44,
+   "rate": 0.182,
+   "flagged": 0.432,
+   "formal": 0.8,
+   "adi": 0.2,
+   "informal": 0.0
+  },
+  {
+   "name": "Steenberg",
+   "households": 33,
+   "rate": 0.182,
+   "flagged": 0.424,
+   "formal": 0.61,
+   "adi": 0.36,
+   "informal": 0.03
+  },
+  {
+   "name": "Silver Town",
+   "households": 52,
+   "rate": 0.173,
+   "flagged": 0.731,
+   "formal": 0.31,
+   "adi": 0.13,
+   "informal": 0.56
+  },
+  {
+   "name": "Cape Town Farms",
+   "households": 70,
+   "rate": 0.171,
+   "flagged": 0.543,
+   "formal": 0.73,
+   "adi": 0.0,
+   "informal": 0.27
+  },
+  {
+   "name": "Nomzamo",
+   "households": 48,
+   "rate": 0.167,
+   "flagged": 0.625,
+   "formal": 0.42,
+   "adi": 0.27,
+   "informal": 0.31
+  },
+  {
+   "name": "Strandfontein",
+   "households": 44,
+   "rate": 0.159,
+   "flagged": 0.25,
+   "formal": 0.59,
+   "adi": 0.32,
+   "informal": 0.09
+  },
+  {
+   "name": "Atlantis",
+   "households": 48,
+   "rate": 0.146,
+   "flagged": 0.5,
+   "formal": 0.75,
+   "adi": 0.21,
+   "informal": 0.04
+  },
+  {
+   "name": "Kalkfontein/Highbury/Sarepta",
+   "households": 49,
+   "rate": 0.143,
+   "flagged": 0.306,
+   "formal": 0.82,
+   "adi": 0.18,
+   "informal": 0.0
+  },
+  {
+   "name": "Wolverivier",
+   "households": 28,
+   "rate": 0.143,
+   "flagged": 0.393,
+   "formal": 0.0,
+   "adi": 0.0,
+   "informal": 1.0
+  },
+  {
+   "name": "Coniston Park/Sheraton Park",
+   "households": 76,
+   "rate": 0.132,
+   "flagged": 0.197,
+   "formal": 0.96,
+   "adi": 0.04,
+   "informal": 0.0
+  },
+  {
+   "name": "Montana/Montevideo",
+   "households": 38,
+   "rate": 0.132,
+   "flagged": 0.053,
+   "formal": 0.95,
+   "adi": 0.05,
+   "informal": 0.0
+  },
+  {
+   "name": "Eastridge",
+   "households": 46,
+   "rate": 0.13,
+   "flagged": 0.5,
+   "formal": 0.65,
+   "adi": 0.35,
+   "informal": 0.0
+  },
+  {
+   "name": "Sir Lowry's Pass",
+   "households": 46,
+   "rate": 0.13,
+   "flagged": 0.478,
+   "formal": 0.41,
+   "adi": 0.22,
+   "informal": 0.37
+  },
+  {
+   "name": "Retreat",
+   "households": 47,
+   "rate": 0.128,
+   "flagged": 0.426,
+   "formal": 0.62,
+   "adi": 0.36,
+   "informal": 0.02
+  },
+  {
+   "name": "Fisantekraal",
+   "households": 48,
+   "rate": 0.125,
+   "flagged": 0.458,
+   "formal": 0.48,
+   "adi": 0.25,
+   "informal": 0.27
+  },
+  {
+   "name": "Philadelphia",
+   "households": 32,
+   "rate": 0.125,
+   "flagged": 0.312,
+   "formal": 0.66,
+   "adi": 0.28,
+   "informal": 0.06
+  },
+  {
+   "name": "Lotus River",
+   "households": 49,
+   "rate": 0.122,
+   "flagged": 0.429,
+   "formal": 0.65,
+   "adi": 0.33,
+   "informal": 0.02
+  },
+  {
+   "name": "Mowbray/Observatory",
+   "households": 79,
+   "rate": 0.114,
+   "flagged": 0.165,
+   "formal": 0.99,
+   "adi": 0.01,
+   "informal": 0.0
+  },
+  {
+   "name": "Parkwood",
+   "households": 35,
+   "rate": 0.114,
+   "flagged": 0.457,
+   "formal": 0.74,
+   "adi": 0.26,
+   "informal": 0.0
+  },
+  {
+   "name": "Parow Valley",
+   "households": 44,
+   "rate": 0.114,
+   "flagged": 0.386,
+   "formal": 0.68,
+   "adi": 0.32,
+   "informal": 0.0
+  },
+  {
+   "name": "Scottsdene",
+   "households": 44,
+   "rate": 0.114,
+   "flagged": 0.5,
+   "formal": 0.73,
+   "adi": 0.27,
+   "informal": 0.0
+  },
+  {
+   "name": "Elsies River",
+   "households": 57,
+   "rate": 0.105,
+   "flagged": 0.263,
+   "formal": 0.56,
+   "adi": 0.42,
+   "informal": 0.02
+  },
+  {
+   "name": "Maitland Garden Village/Ndabeni",
+   "households": 59,
+   "rate": 0.102,
+   "flagged": 0.288,
+   "formal": 0.66,
+   "adi": 0.34,
+   "informal": 0.0
+  },
+  {
+   "name": "Belhar",
+   "households": 70,
+   "rate": 0.1,
+   "flagged": 0.329,
+   "formal": 0.57,
+   "adi": 0.43,
+   "informal": 0.0
+  },
+  {
+   "name": "Bonteheuwel",
+   "households": 41,
+   "rate": 0.098,
+   "flagged": 0.561,
+   "formal": 0.66,
+   "adi": 0.34,
+   "informal": 0.0
+  },
+  {
+   "name": "Brooklyn/Rugby",
+   "households": 73,
+   "rate": 0.096,
+   "flagged": 0.26,
+   "formal": 0.9,
+   "adi": 0.1,
+   "informal": 0.0
+  },
+  {
+   "name": "Schotschekloof",
+   "households": 43,
+   "rate": 0.093,
+   "flagged": 0.349,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Bellville South",
+   "households": 44,
+   "rate": 0.091,
+   "flagged": 0.523,
+   "formal": 0.68,
+   "adi": 0.32,
+   "informal": 0.0
+  },
+  {
+   "name": "Blue Downs",
+   "households": 42,
+   "rate": 0.071,
+   "flagged": 0.238,
+   "formal": 0.74,
+   "adi": 0.26,
+   "informal": 0.0
+  },
+  {
+   "name": "Maitland",
+   "households": 43,
+   "rate": 0.07,
+   "flagged": 0.116,
+   "formal": 0.91,
+   "adi": 0.09,
+   "informal": 0.0
+  },
+  {
+   "name": "Wesbank",
+   "households": 43,
+   "rate": 0.07,
+   "flagged": 0.535,
+   "formal": 0.6,
+   "adi": 0.4,
+   "informal": 0.0
+  },
+  {
+   "name": "Strand",
+   "households": 87,
+   "rate": 0.069,
+   "flagged": 0.253,
+   "formal": 0.8,
+   "adi": 0.17,
+   "informal": 0.02
+  },
+  {
+   "name": "Parklands/Sunningdale",
+   "households": 89,
+   "rate": 0.067,
+   "flagged": 0.101,
+   "formal": 0.99,
+   "adi": 0.0,
+   "informal": 0.01
+  },
+  {
+   "name": "Imizamo Yethu",
+   "households": 37,
+   "rate": 0.054,
+   "flagged": 0.378,
+   "formal": 0.54,
+   "adi": 0.03,
+   "informal": 0.43
+  },
+  {
+   "name": "Phoenix",
+   "households": 37,
+   "rate": 0.054,
+   "flagged": 0.081,
+   "formal": 0.7,
+   "adi": 0.3,
+   "informal": 0.0
+  },
+  {
+   "name": "Gordons Bay",
+   "households": 39,
+   "rate": 0.051,
+   "flagged": 0.128,
+   "formal": 0.97,
+   "adi": 0.03,
+   "informal": 0.0
+  },
+  {
+   "name": "Zonnebloem",
+   "households": 41,
+   "rate": 0.049,
+   "flagged": 0.122,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Durbanville",
+   "households": 44,
+   "rate": 0.045,
+   "flagged": 0.045,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Bellville",
+   "households": 45,
+   "rate": 0.044,
+   "flagged": 0.067,
+   "formal": 0.98,
+   "adi": 0.02,
+   "informal": 0.0
+  },
+  {
+   "name": "Capricorn/Muizenberg",
+   "households": 69,
+   "rate": 0.043,
+   "flagged": 0.13,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Firgrove Rural",
+   "households": 24,
+   "rate": 0.042,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Manenberg",
+   "households": 48,
+   "rate": 0.042,
+   "flagged": 0.292,
+   "formal": 0.69,
+   "adi": 0.31,
+   "informal": 0.0
+  },
+  {
+   "name": "Woodlands",
+   "households": 48,
+   "rate": 0.042,
+   "flagged": 0.292,
+   "formal": 0.85,
+   "adi": 0.15,
+   "informal": 0.0
+  },
+  {
+   "name": "Athlone",
+   "households": 83,
+   "rate": 0.036,
+   "flagged": 0.133,
+   "formal": 0.86,
+   "adi": 0.08,
+   "informal": 0.06
+  },
+  {
+   "name": "Somerset West",
+   "households": 57,
+   "rate": 0.035,
+   "flagged": 0.105,
+   "formal": 0.93,
+   "adi": 0.07,
+   "informal": 0.0
+  },
+  {
+   "name": "Bellville Park",
+   "households": 33,
+   "rate": 0.03,
+   "flagged": 0.03,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Melkbosstrand",
+   "households": 34,
+   "rate": 0.029,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Fairways",
+   "households": 37,
+   "rate": 0.027,
+   "flagged": 0.027,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Simons Town",
+   "households": 37,
+   "rate": 0.027,
+   "flagged": 0.027,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Grassy Park",
+   "households": 38,
+   "rate": 0.026,
+   "flagged": 0.158,
+   "formal": 0.95,
+   "adi": 0.05,
+   "informal": 0.0
+  },
+  {
+   "name": "Hout Bay",
+   "households": 38,
+   "rate": 0.026,
+   "flagged": 0.132,
+   "formal": 0.84,
+   "adi": 0.05,
+   "informal": 0.11
+  },
+  {
+   "name": "Newlands",
+   "households": 38,
+   "rate": 0.026,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Ruyterwacht",
+   "households": 38,
+   "rate": 0.026,
+   "flagged": 0.079,
+   "formal": 0.82,
+   "adi": 0.18,
+   "informal": 0.0
+  },
+  {
+   "name": "Salt River/Woodstock",
+   "households": 76,
+   "rate": 0.026,
+   "flagged": 0.184,
+   "formal": 0.99,
+   "adi": 0.01,
+   "informal": 0.0
+  },
+  {
+   "name": "Gardens",
+   "households": 40,
+   "rate": 0.025,
+   "flagged": 0.05,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Lakeside/Marina da Gama/Westlake",
+   "households": 118,
+   "rate": 0.025,
+   "flagged": 0.093,
+   "formal": 0.88,
+   "adi": 0.12,
+   "informal": 0.0
+  },
+  {
+   "name": "Zeekoei Vlei",
+   "households": 40,
+   "rate": 0.025,
+   "flagged": 0.05,
+   "formal": 0.95,
+   "adi": 0.05,
+   "informal": 0.0
+  },
+  {
+   "name": "Da Gama Park",
+   "households": 41,
+   "rate": 0.024,
+   "flagged": 0.024,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Kraaifontein",
+   "households": 83,
+   "rate": 0.024,
+   "flagged": 0.169,
+   "formal": 0.81,
+   "adi": 0.19,
+   "informal": 0.0
+  },
+  {
+   "name": "Mandalay",
+   "households": 42,
+   "rate": 0.024,
+   "flagged": 0.167,
+   "formal": 0.74,
+   "adi": 0.26,
+   "informal": 0.0
+  },
+  {
+   "name": "Ottery",
+   "households": 42,
+   "rate": 0.024,
+   "flagged": 0.095,
+   "formal": 0.83,
+   "adi": 0.12,
+   "informal": 0.05
+  },
+  {
+   "name": "Primrose Park/ Surrey Estate",
+   "households": 41,
+   "rate": 0.024,
+   "flagged": 0.122,
+   "formal": 0.98,
+   "adi": 0.02,
+   "informal": 0.0
+  },
+  {
+   "name": "Thornton",
+   "households": 41,
+   "rate": 0.024,
+   "flagged": 0.073,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Edgemead",
+   "households": 43,
+   "rate": 0.023,
+   "flagged": 0.023,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Kensington",
+   "households": 43,
+   "rate": 0.023,
+   "flagged": 0.14,
+   "formal": 0.65,
+   "adi": 0.35,
+   "informal": 0.0
+  },
+  {
+   "name": "Lansdowne",
+   "households": 44,
+   "rate": 0.023,
+   "flagged": 0.182,
+   "formal": 0.82,
+   "adi": 0.09,
+   "informal": 0.09
+  },
+  {
+   "name": "Oranjezicht",
+   "households": 43,
+   "rate": 0.023,
+   "flagged": 0.093,
+   "formal": 0.98,
+   "adi": 0.02,
+   "informal": 0.0
+  },
+  {
+   "name": "Fish Hoek",
+   "households": 45,
+   "rate": 0.022,
+   "flagged": 0.089,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Parow",
+   "households": 45,
+   "rate": 0.022,
+   "flagged": 0.067,
+   "formal": 0.98,
+   "adi": 0.02,
+   "informal": 0.0
+  },
+  {
+   "name": "Wynberg",
+   "households": 46,
+   "rate": 0.022,
+   "flagged": 0.065,
+   "formal": 0.98,
+   "adi": 0.0,
+   "informal": 0.02
+  },
+  {
+   "name": "Kuils River",
+   "households": 47,
+   "rate": 0.021,
+   "flagged": 0.043,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Milnerton",
+   "households": 59,
+   "rate": 0.017,
+   "flagged": 0.034,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Kalk Bay/St James",
+   "households": 67,
+   "rate": 0.015,
+   "flagged": 0.104,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Kenridge/Welgemoed",
+   "households": 68,
+   "rate": 0.015,
+   "flagged": 0.015,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Blackheath",
+   "households": 69,
+   "rate": 0.014,
+   "flagged": 0.275,
+   "formal": 0.57,
+   "adi": 0.38,
+   "informal": 0.06
+  },
+  {
+   "name": "Diep River/Plumstead",
+   "households": 79,
+   "rate": 0.013,
+   "flagged": 0.089,
+   "formal": 0.96,
+   "adi": 0.04,
+   "informal": 0.0
+  },
+  {
+   "name": "Panorama/Welgelegen",
+   "households": 77,
+   "rate": 0.013,
+   "flagged": 0.039,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Claremont/Kenilworth",
+   "households": 89,
+   "rate": 0.011,
+   "flagged": 0.056,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Bergvliet/Meadowridge",
+   "households": 80,
+   "rate": 0.0,
+   "flagged": 0.075,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Bishopscourt/Constantia",
+   "households": 73,
+   "rate": 0.0,
+   "flagged": 0.055,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Bloubergstrand/Table View",
+   "households": 89,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Bothasig",
+   "households": 42,
+   "rate": 0.0,
+   "flagged": 0.048,
+   "formal": 0.95,
+   "adi": 0.05,
+   "informal": 0.0
+  },
+  {
+   "name": "Brackenfell",
+   "households": 50,
+   "rate": 0.0,
+   "flagged": 0.04,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Camps Bay/Clifton",
+   "households": 73,
+   "rate": 0.0,
+   "flagged": 0.014,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Cape Town CBD",
+   "households": 30,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Capri",
+   "households": 41,
+   "rate": 0.0,
+   "flagged": 0.024,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Clovelly",
+   "households": 34,
+   "rate": 0.0,
+   "flagged": 0.029,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "De Waterkant/Green Point/Sea Point",
+   "households": 85,
+   "rate": 0.0,
+   "flagged": 0.012,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Dreyersdal",
+   "households": 39,
+   "rate": 0.0,
+   "flagged": 0.077,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Eversdal",
+   "households": 41,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Firgrove",
+   "households": 39,
+   "rate": 0.0,
+   "flagged": 0.128,
+   "formal": 0.77,
+   "adi": 0.23,
+   "informal": 0.0
+  },
+  {
+   "name": "Glencairn",
+   "households": 41,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Goodwood",
+   "households": 48,
+   "rate": 0.0,
+   "flagged": 0.021,
+   "formal": 0.96,
+   "adi": 0.04,
+   "informal": 0.0
+  },
+  {
+   "name": "Heathfield/Southfield",
+   "households": 83,
+   "rate": 0.0,
+   "flagged": 0.06,
+   "formal": 0.98,
+   "adi": 0.0,
+   "informal": 0.02
+  },
+  {
+   "name": "Kirstenhof",
+   "households": 42,
+   "rate": 0.0,
+   "flagged": 0.024,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Kommetjie/Scarborough",
+   "households": 76,
+   "rate": 0.0,
+   "flagged": 0.026,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Langeberg",
+   "households": 42,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Llandudno",
+   "households": 35,
+   "rate": 0.0,
+   "flagged": 0.057,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Monte Vista",
+   "households": 44,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Morning Star AH",
+   "households": 26,
+   "rate": 0.0,
+   "flagged": 0.077,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Noordhoek",
+   "households": 74,
+   "rate": 0.0,
+   "flagged": 0.027,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Pinelands",
+   "households": 40,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Plattekloof",
+   "households": 36,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Richwood",
+   "households": 40,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Rondebosch/Rosebank",
+   "households": 44,
+   "rate": 0.0,
+   "flagged": 0.068,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Somerset West Non Urban",
+   "households": 35,
+   "rate": 0.0,
+   "flagged": 0.057,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Tamboerskloof",
+   "households": 41,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Tokai/Steenberg Estate",
+   "households": 39,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  },
+  {
+   "name": "Vredehoek",
+   "households": 42,
+   "rate": 0.0,
+   "flagged": 0.0,
+   "formal": 1.0,
+   "adi": 0.0,
+   "informal": 0.0
+  }
+ ],
+ "hidden_small": 1,
+ "dwelling_defaults": {
+  "ADI": {
+   "material_walls": "Wood",
+   "tenure": "Rented from private individual",
+   "water_piped": "Piped (tap) water inside the dwelling/house",
+   "toilet": "Flush toilet connected to a public sewerage system",
+   "electricity": "In-house prepaid meter",
+   "hhasset_fridge": "Yes",
+   "hhasset_stove": "Yes",
+   "hhasset_vacuum": "No",
+   "hhasset_washer": "No",
+   "hhasset_computer": "No",
+   "hhasset_sattv": "No",
+   "hhasset_dvd": "No",
+   "hhasset_vehicle": "No",
+   "hhasset_tv": "Yes",
+   "hhasset_radio": "No",
+   "hhasset_landline": "No",
+   "hhasset_cell": "Yes",
+   "hhasset_geyser": "No",
+   "hhasset_borehole": "No",
+   "hhasset_prepaidmeter": "Yes",
+   "hhasset_loadshedding": "No",
+   "hhasset_property": "No",
+   "hhasset_rental_short": "No",
+   "hhasset_rental_long": "No",
+   "exp_energy": 350,
+   "exp_transport": 450,
+   "exp_acc": 0
+  },
+  "Formal": {
+   "material_walls": "Bricks",
+   "tenure": "Owned and fully paid off",
+   "water_piped": "Piped (tap) water inside the dwelling/house",
+   "toilet": "Flush toilet connected to a public sewerage system",
+   "electricity": "In-house prepaid meter",
+   "hhasset_fridge": "Yes",
+   "hhasset_stove": "Yes",
+   "hhasset_vacuum": "No",
+   "hhasset_washer": "Yes",
+   "hhasset_computer": "Yes",
+   "hhasset_sattv": "Yes",
+   "hhasset_dvd": "No",
+   "hhasset_vehicle": "Yes",
+   "hhasset_tv": "Yes",
+   "hhasset_radio": "No",
+   "hhasset_landline": "No",
+   "hhasset_cell": "Yes",
+   "hhasset_geyser": "Yes",
+   "hhasset_borehole": "No",
+   "hhasset_prepaidmeter": "Yes",
+   "hhasset_loadshedding": "No",
+   "hhasset_property": "No",
+   "hhasset_rental_short": "No",
+   "hhasset_rental_long": "No",
+   "exp_energy": 1000,
+   "exp_transport": 1000,
+   "exp_acc": 0
+  },
+  "Informal settlement": {
+   "material_walls": "Corrugated iron/zinc",
+   "tenure": "Occupied rent-free",
+   "water_piped": "Piped (tap) from neighbour: distance 200m or less from dwelling",
+   "toilet": "Bucket toilet (collected by municipality)",
+   "electricity": "In-house prepaid meter",
+   "hhasset_fridge": "Yes",
+   "hhasset_stove": "Yes",
+   "hhasset_vacuum": "No",
+   "hhasset_washer": "No",
+   "hhasset_computer": "No",
+   "hhasset_sattv": "No",
+   "hhasset_dvd": "No",
+   "hhasset_vehicle": "No",
+   "hhasset_tv": "Yes",
+   "hhasset_radio": "No",
+   "hhasset_landline": "No",
+   "hhasset_cell": "Yes",
+   "hhasset_geyser": "No",
+   "hhasset_borehole": "No",
+   "hhasset_prepaidmeter": "No",
+   "hhasset_loadshedding": "No",
+   "hhasset_property": "No",
+   "hhasset_rental_short": "No",
+   "hhasset_rental_long": "No",
+   "exp_energy": 200,
+   "exp_transport": 400,
+   "exp_acc": 0
+  }
+ },
+ "note": "Aggregates from the City of Cape Town 2024 Household Survey; suburbs with fewer than 20 surveyed households are not shown."
+}

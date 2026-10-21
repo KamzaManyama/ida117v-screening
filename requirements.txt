@@ -1,0 +1,8 @@
+# Same versions used to train the saved model (scikit-learn must match to load it)
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+scipy==1.17.1
+joblib==1.5.3
+flask==3.1.3
+gunicorn==23.0.0

@@ -1,0 +1,905 @@
+{
+ "reference_household": {
+  "suburb": "Crossroads/New Crossroads/Nyanga",
+  "dwellingtype": "Formal",
+  "material_walls": "Bricks",
+  "material_roof": "Tile",
+  "tenure": "Owned and fully paid off",
+  "rental": "No",
+  "hhsize": 3.0,
+  "hhchildren": 0.0,
+  "hhasset_fridge": "Yes",
+  "hhasset_stove": "Yes",
+  "hhasset_vacuum": "No",
+  "hhasset_washer": "Yes",
+  "hhasset_computer": "No",
+  "hhasset_sattv": "Yes",
+  "hhasset_dvd": "No",
+  "hhasset_vehicle": "Yes",
+  "hhasset_tv": "Yes",
+  "hhasset_radio": "No",
+  "hhasset_landline": "No",
+  "hhasset_cell": "Yes",
+  "hhasset_geyser": "Yes",
+  "hhasset_borehole": "No",
+  "hhasset_prepaidmeter": "Yes",
+  "hhasset_loadshedding": "No",
+  "hhasset_property": "No",
+  "hhasset_rental_short": "No",
+  "hhasset_rental_long": "No",
+  "water_piped": "Piped (tap) water inside the dwelling/house",
+  "water_drinking": "Regional/local water scheme (piped water operated by municipality or other water services provider)",
+  "water_household": "Regional/local water scheme (piped water operated by municipality or other water services provider)",
+  "water_outdoor": "Regional/local water scheme (piped water operated by municipality or other water services provider)",
+  "water_interruption": "No",
+  "toilet": "Flush toilet connected to a public sewerage system",
+  "hhwaste": "Removed by local authority/private company/community members at least once a week",
+  "energy_cooking": "Electricity from mains",
+  "energy_lighting": "Electricity from mains",
+  "electricity": "In-house prepaid meter",
+  "electricity_grid": "Yes",
+  "internet": "Home with an internet connection in the dwelling (e.g. Fibre, ADSL)",
+  "local_park": "Never",
+  "local_library": "Never",
+  "local_pool": "Never",
+  "local_sportsground": "Never",
+  "local_beach": "Never",
+  "local_naturereserve": "Never",
+  "local_hall": "Never",
+  "city_park": "Never",
+  "city_library": "Never",
+  "city_pool": "Never",
+  "city_sportsground": "Never",
+  "city_beach": "Never",
+  "city_naturereserve": "Never",
+  "city_hall": "Never",
+  "negevent_flooding": "No",
+  "negevent_fire": "No",
+  "negevent_crime_violent": "No",
+  "negevent_hospital": "No",
+  "negevent_wind": "No",
+  "negevent_otherdamage": "No",
+  "negevent_crime_nonviolent": "No",
+  "negevent_incomeloss": "No",
+  "negevent_landloss": "No",
+  "negevent_other": "No",
+  "negevent_drought": "No",
+  "negevent_hail": "No",
+  "negevent_landslide": "No",
+  "income_wages": "Yes",
+  "income_business": "No",
+  "income_remittance": "No",
+  "income_pension": "No",
+  "income_grant": "No",
+  "income_farming": "No",
+  "income_rental": "No",
+  "income_other": "No",
+  "income_none": "No",
+  "grants_oag": 0.0,
+  "grants_disability": 0.0,
+  "grants_csg": 0.0,
+  "grants_cdg": 0.0,
+  "grants_foster": 0.0,
+  "grants_warvet": 0.0,
+  "grants_inaid": 0.0,
+  "grants_covid": 0.0,
+  "hhincome": "Don't know",
+  "exp_energy": 650.0,
+  "exp_transport": 1000.0,
+  "exp_acc": 0.0,
+  "exp_education": 0.0,
+  "exp_debt": 0.0,
+  "exp_saving": 0.0,
+  "exp_remittance": 0.0,
+  "homebusiness": "No",
+  "homebusiness_nonres": "No",
+  "workfromhome_fulltime": "No",
+  "workfromhome_parttime": "No",
+  "homebusinesstype": "No home business",
+  "exp_none": "No"
+ },
+ "allowed_values": {
+  "suburb": [
+   "Athlone",
+   "Atlantis",
+   "Beacon Valley",
+   "Belhar",
+   "Bellville",
+   "Bellville Park",
+   "Bellville South",
+   "Bergvliet/Meadowridge",
+   "Bishop Lavis",
+   "Bishopscourt/Constantia",
+   "Blackheath",
+   "Bloekombos",
+   "Bloubergstrand/Table View",
+   "Blue Downs",
+   "Bonteheuwel",
+   "Bothasig",
+   "Brackenfell",
+   "Brooklyn/Rugby",
+   "Browns Farms/Samora Machel",
+   "Camps Bay/Clifton",
+   "Cape Town CBD",
+   "Cape Town Farms",
+   "Capri",
+   "Capricorn/Muizenberg",
+   "Claremont/Kenilworth",
+   "Clovelly",
+   "Coniston Park/Sheraton Park",
+   "Crossroads/New Crossroads/Nyanga",
+   "Da Gama Park",
+   "De Waterkant/Green Point/Sea Point",
+   "Delft",
+   "Delft Northeast",
+   "Delft South",
+   "Diep River/Plumstead",
+   "Doornbach",
+   "Dreyersdal",
+   "Dunoon",
+   "Durbanville",
+   "Eastridge",
+   "Edgemead",
+   "Eersterivier",
+   "Elsies River",
+   "Endlovini/Enkanini",
+   "Eversdal",
+   "Eyethu/Khaya",
+   "Fairways",
+   "Firgrove",
+   "Firgrove Rural",
+   "Fisantekraal",
+   "Fish Hoek",
+   "Freedom Park Airport",
+   "Gardens",
+   "Glencairn",
+   "Goodwood",
+   "Gordons Bay",
+   "Grassy Park",
+   "Gugulethu",
+   "Hanover Park",
+   "Harare",
+   "Hazendal/Silvertown",
+   "Heathfield/Southfield",
+   "Heideveld",
+   "Hout Bay",
+   "Ilitha Park",
+   "Imizamo Yethu",
+   "Joe Slovo Park",
+   "Kalk Bay/St James",
+   "Kalkfontein/Highbury/Sarepta",
+   "Kenridge/Welgemoed",
+   "Kensington",
+   "Kirstenhof",
+   "Klipheuwel",
+   "Knole Park",
+   "Kommetjie/Scarborough",
+   "Kosovo",
+   "Kraaifontein",
+   "Kraaifontein East",
+   "Kuils River",
+   "Kuils River SH",
+   "Kuyasa",
+   "Lakeside/Marina da Gama/Westlake",
+   "Langa",
+   "Langeberg",
+   "Lansdowne",
+   "Lavender Hill",
+   "Lentegeur",
+   "Llandudno",
+   "Lotus River",
+   "Lwandle",
+   "Macassar",
+   "Maitland",
+   "Maitland Garden Village/Ndabeni",
+   "Makaya/Town 2",
+   "Makhaza",
+   "Mamre",
+   "Mandalay",
+   "Manenberg",
+   "Masiphumelele",
+   "Melkbosstrand",
+   "Mfuleni",
+   "Milnerton",
+   "Montana/Montevideo",
+   "Monte Vista",
+   "Morning Star AH",
+   "Mowbray/Observatory",
+   "Ndabeni Communal Trust",
+   "Newlands",
+   "Nomzamo",
+   "Noordhoek",
+   "Ocean View",
+   "Oranjezicht",
+   "Ottery",
+   "Panorama/Welgelegen",
+   "Parklands/Sunningdale",
+   "Parkwood",
+   "Parow",
+   "Parow Valley",
+   "Pelikan Park",
+   "Pella",
+   "Philadelphia",
+   "Philippi East",
+   "Philippi Small Holdings",
+   "Phoenix",
+   "Pinelands",
+   "Plattekloof",
+   "Portland/Rocklands/Westridge",
+   "Primrose Park/ Surrey Estate",
+   "Red Hill",
+   "Retreat",
+   "Richwood",
+   "Rondebosch/Rosebank",
+   "Ruyterwacht",
+   "Salt River/Woodstock",
+   "Schotschekloof",
+   "Scottsdene",
+   "Silver Town",
+   "Simons Town",
+   "Sir Lowry's Pass",
+   "Site B: Nonqubela",
+   "Site B: Victoria Mxenge",
+   "Site C",
+   "Somerset West",
+   "Somerset West Non Urban",
+   "Steenberg",
+   "Strand",
+   "Strandfontein",
+   "Summer Greens",
+   "Tafelsig",
+   "Tamboerskloof",
+   "Thornton",
+   "Tokai/Steenberg Estate",
+   "Valhalla Park",
+   "Vredehoek",
+   "Vrygrond",
+   "Wallacedene",
+   "Wesbank",
+   "Winnie Madikizela - Delft",
+   "Witsand",
+   "Wolverivier",
+   "Woodlands",
+   "Wynberg",
+   "Zeekoei Vlei",
+   "Zonnebloem"
+  ],
+  "dwellingtype": [
+   "ADI",
+   "Formal",
+   "Informal settlement"
+  ],
+  "material_walls": [
+   "Asbestos",
+   "Bricks",
+   "Cardboard",
+   "Cement block/concrete",
+   "Corrugated iron/zinc",
+   "Mud",
+   "Mud and cement mix",
+   "Other",
+   "Plastic",
+   "Thatching/grass",
+   "Tile",
+   "Wattle and daub",
+   "Wood"
+  ],
+  "material_roof": [
+   "Asbestos",
+   "Bricks",
+   "Cardboard",
+   "Cement block/concrete",
+   "Corrugated iron/zinc",
+   "Mud",
+   "Mud and cement mix",
+   "Other",
+   "Plastic",
+   "Thatching/grass",
+   "Tile",
+   "Wattle and daub",
+   "Wood"
+  ],
+  "tenure": [
+   "Don't know",
+   "Occupied rent-free",
+   "Other",
+   "Owned and fully paid off",
+   "Owned, but not yet paid off",
+   "Rented from other (incl. municipality and social housing institutions)",
+   "Rented from private individual"
+  ],
+  "rental": [
+   "Don't know",
+   "No",
+   "Yes, multiple outside structures or backyard dwellings",
+   "Yes, multiple rooms inside the house/dwelling/apartment",
+   "Yes, one outside structure or backyard dwelling",
+   "Yes, one room inside the house/dwelling/apartment"
+  ],
+  "hhasset_fridge": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_stove": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_vacuum": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_washer": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_computer": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_sattv": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_dvd": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_vehicle": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_tv": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_radio": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_landline": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_cell": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_geyser": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_borehole": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_prepaidmeter": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_loadshedding": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_property": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_rental_short": [
+   "No",
+   "Yes"
+  ],
+  "hhasset_rental_long": [
+   "No",
+   "Yes"
+  ],
+  "water_piped": [
+   "No access to piped water (e.g. water tank, rainwater, etc.)",
+   "Piped (tap) from neighbour: distance 200m or less from dwelling",
+   "Piped (tap) from neighbour: distance more than 200m from dwelling",
+   "Piped (tap) water inside the dwelling/house",
+   "Piped (tap) water inside the yard",
+   "Piped water on community stand: distance 200m or less from dwelling",
+   "Piped water on community stand: distance between 200m and 500m",
+   "Piped water on community stand: distance between 500m and 1000m (1km) from dwelling",
+   "Piped water on community stand: distance greater than 1000m (1km) from dwelling"
+  ],
+  "water_drinking": [
+   "Borehole in yard (on site)",
+   "Borehole outside yard (off site)",
+   "Bottled water",
+   "Dam / pools / stagnant water",
+   "Flowing water / River / Stream",
+   "Other",
+   "Rain-water tank in yard (on site)",
+   "Regional/local water scheme (piped water operated by municipality or other water services provider)",
+   "Spring",
+   "Water vendor (charge involved)",
+   "Water-carrier / tanker",
+   "Well"
+  ],
+  "water_household": [
+   "Borehole in yard (on site)",
+   "Borehole outside yard (off site)",
+   "Dam / pools / stagnant water",
+   "Flowing water / River / Stream",
+   "Not applicable",
+   "Other",
+   "Rain-water tank in yard (on site)",
+   "Regional/local water scheme (piped water operated by municipality or other water services provider)",
+   "Spring",
+   "Water vendor (charge involved)",
+   "Water-carrier / tanker",
+   "Well"
+  ],
+  "water_outdoor": [
+   "Borehole in yard (on site)",
+   "Borehole outside yard (off site)",
+   "Dam / pools / stagnant water",
+   "Flowing water / River / Stream",
+   "Not applicable",
+   "Other",
+   "Rain-water tank in yard (on site)",
+   "Regional/local water scheme (piped water operated by municipality or other water services provider)",
+   "Spring",
+   "Water vendor (charge involved)",
+   "Water-carrier / tanker",
+   "Well"
+  ],
+  "water_interruption": [
+   "Don't know",
+   "No",
+   "Yes"
+  ],
+  "toilet": [
+   "Bucket toilet (collected by municipality)",
+   "Bucket toilet (emptied by household)",
+   "Chemical toilet",
+   "Composting toilet",
+   "Flush toilet connected to a public sewerage system",
+   "Flush toilet connected to a septic tank or conservancy tank",
+   "None, no facilities available for my use",
+   "Other",
+   "Pit latrine/toilet with ventilation pipe",
+   "Pit latrine/toilet without ventilation pipe",
+   "Portable flush toilet",
+   "Pour bucket-flush toilet connected to a septic tank (or seepage pit)",
+   "Urine diversion dry toilet"
+  ],
+  "hhwaste": [
+   "Communal container/central collection point",
+   "Communal refuse dump",
+   "Don't know",
+   "Dump or leave rubbish anywhere (no rubbish disposal)",
+   "Other",
+   "Own refuse dump",
+   "Removed by local authority/private company/community members at least once a week",
+   "Removed by local authority/private company/community members less often than once a week"
+  ],
+  "energy_cooking": [
+   "Coal",
+   "Electricity from mains",
+   "Gas",
+   "Other",
+   "Other source of electricity (e.g. generator)",
+   "Paraffin",
+   "Solar energy / Solar panels",
+   "Wood"
+  ],
+  "energy_lighting": [
+   "Candles",
+   "Electricity from mains",
+   "Gas",
+   "Other",
+   "Other source of electricity (e.g. generator)",
+   "Paraffin",
+   "Solar energy / Solar panels"
+  ],
+  "electricity": [
+   "Car battery",
+   "Connection from elsewhere (including direct to overhead cables)",
+   "Connection from neighbours house",
+   "Connection from the main house (only for backyard dwellers)",
+   "Generator",
+   "Home solar panels",
+   "In-house conventional meter (municipal electricity that is paid with rates or a bill)",
+   "In-house prepaid meter",
+   "Other"
+  ],
+  "electricity_grid": [
+   "Don't know",
+   "No",
+   "Yes"
+  ],
+  "internet": [
+   "From a library/community hall/Thusong centre",
+   "From an internet caf\u00e9",
+   "From place of work",
+   "From school/university/college",
+   "Home with an internet connection in the dwelling (e.g. Fibre, ADSL)",
+   "No access to internet services",
+   "Other",
+   "Public Wi-Fi",
+   "Use cell phone or any other mobile device"
+  ],
+  "local_park": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Not applicable",
+   "Once a month",
+   "Once a week"
+  ],
+  "local_library": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Not applicable",
+   "Once a month",
+   "Once a week"
+  ],
+  "local_pool": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Not applicable",
+   "Once a month",
+   "Once a week"
+  ],
+  "local_sportsground": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Not applicable",
+   "Once a month",
+   "Once a week"
+  ],
+  "local_beach": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Not applicable",
+   "Once a month",
+   "Once a week"
+  ],
+  "local_naturereserve": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Not applicable",
+   "Once a month",
+   "Once a week"
+  ],
+  "local_hall": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Not applicable",
+   "Once a month",
+   "Once a week"
+  ],
+  "city_park": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Once a month",
+   "Once a week"
+  ],
+  "city_library": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Once a month",
+   "Once a week"
+  ],
+  "city_pool": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Once a month",
+   "Once a week"
+  ],
+  "city_sportsground": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Once a month",
+   "Once a week"
+  ],
+  "city_beach": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Once a month",
+   "Once a week"
+  ],
+  "city_naturereserve": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Don't know",
+   "Less than once a month",
+   "Never",
+   "Once a month",
+   "Once a week"
+  ],
+  "city_hall": [
+   "2-3 times a month",
+   "2-3 times a week",
+   "4-5 times a week",
+   "Daily/Almost daily",
+   "Less than once a month",
+   "Never",
+   "Once a month",
+   "Once a week"
+  ],
+  "negevent_flooding": [
+   "No",
+   "Yes"
+  ],
+  "negevent_fire": [
+   "No",
+   "Yes"
+  ],
+  "negevent_crime_violent": [
+   "No",
+   "Yes"
+  ],
+  "negevent_hospital": [
+   "No",
+   "Yes"
+  ],
+  "negevent_wind": [
+   "No",
+   "Yes"
+  ],
+  "negevent_otherdamage": [
+   "No",
+   "Yes"
+  ],
+  "negevent_crime_nonviolent": [
+   "No",
+   "Yes"
+  ],
+  "negevent_incomeloss": [
+   "No",
+   "Yes"
+  ],
+  "negevent_landloss": [
+   "No",
+   "Yes"
+  ],
+  "negevent_other": [
+   "No",
+   "Yes"
+  ],
+  "negevent_drought": [
+   "No",
+   "Yes"
+  ],
+  "negevent_hail": [
+   "No",
+   "Yes"
+  ],
+  "negevent_landslide": [
+   "No",
+   "Yes"
+  ],
+  "income_wages": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_business": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_remittance": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_pension": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_grant": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_farming": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_rental": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_other": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "income_none": [
+   "No",
+   "Refused to answer",
+   "Yes"
+  ],
+  "hhincome": [
+   "Don't know",
+   "No income",
+   "R1 - R400",
+   "R1 601 - R3 200",
+   "R102 401 - R204 800",
+   "R12 801 - R25 600",
+   "R204 801 or more",
+   "R25 601 - R51 200",
+   "R3 201 - R6 400",
+   "R401 - R800",
+   "R51 201 - R102 400",
+   "R6 401 - R12 800",
+   "R801 - R1 600"
+  ],
+  "homebusiness": [
+   "No",
+   "Yes"
+  ],
+  "homebusiness_nonres": [
+   "No",
+   "Yes"
+  ],
+  "workfromhome_fulltime": [
+   "No",
+   "Yes"
+  ],
+  "workfromhome_parttime": [
+   "No",
+   "Yes"
+  ],
+  "homebusinesstype": [
+   "Agricultural work",
+   "Childcare / Creche / Early Childhood Development centre",
+   "Guesthouse",
+   "Health services (Surgeon, GP, Physio, Dentist, Psychologist, Traditional healer etc.)",
+   "Home-based Office (Legal, Bookeeping, Architecture etc.)",
+   "Industrial (Repairs/Mechanics)",
+   "No home business",
+   "Other",
+   "Other education",
+   "Refused",
+   "Restaurant/Cafe/Shebeens/Taverns",
+   "Sales (Houseshop/tuckshop)",
+   "Service Related (i.e. Salon, Dress-making, etc.)"
+  ],
+  "exp_none": [
+   "No",
+   "Yes"
+  ]
+ },
+ "numeric_ranges": {
+  "hhsize": [
+   1.0,
+   20.0
+  ],
+  "hhchildren": [
+   0.0,
+   10.0
+  ],
+  "grants_oag": [
+   0.0,
+   4.0
+  ],
+  "grants_disability": [
+   0.0,
+   3.0
+  ],
+  "grants_csg": [
+   0.0,
+   9.0
+  ],
+  "grants_cdg": [
+   0.0,
+   2.0
+  ],
+  "grants_foster": [
+   0.0,
+   3.0
+  ],
+  "grants_warvet": [
+   0.0,
+   2.0
+  ],
+  "grants_inaid": [
+   0.0,
+   6.0
+  ],
+  "grants_covid": [
+   0.0,
+   4.0
+  ],
+  "exp_energy": [
+   0.0,
+   40000.0
+  ],
+  "exp_transport": [
+   0.0,
+   40000.0
+  ],
+  "exp_acc": [
+   0.0,
+   200000.0
+  ],
+  "exp_education": [
+   0.0,
+   250000.0
+  ],
+  "exp_debt": [
+   0.0,
+   65000.0
+  ],
+  "exp_saving": [
+   0.0,
+   800000.0
+  ],
+  "exp_remittance": [
+   0.0,
+   100000.0
+  ]
+ },
+ "threshold": 0.55,
+ "champion": "MLP",
+ "train_positive_rate": 0.1320983379501385
+}
