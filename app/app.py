@@ -542,7 +542,7 @@ python wsgi.py</pre>
 """
 
 NAV = [("screen", "/", "Screen a household"), ("suburbs", "/suburbs", "Suburb lookup"), ("batch", "/batch", "Batch scoring"),
-       ("model", "/model", "Model & evidence"), ("guide", "/guide", "Guide & deploy")]
+       ("model", "/model", "Model & evidence")]
 SUBTITLES = {"screen": "Answer 9 quick questions (or the full form) to get a screening score, flag and explanation.",
              "suburbs": "Search any surveyed suburb to see how common adult hunger is there and how many households the model flags.",
              "batch": "Score many households at once from a CSV with the survey's column names.",
